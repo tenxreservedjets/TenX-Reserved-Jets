@@ -1,7 +1,7 @@
-# TenX-Reserved-Jets
+# TenX-Reserved-Jets App
 Official TenX Reserved Jets app for private aviation booking, crew management, and operational tracking
 
-# TenX Reserved Jets App
+
 Welcome to the official mobile gateway for TenX Reserved Jets.
 
 ## Features
