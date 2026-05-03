@@ -145,4 +145,15 @@ This update significantly improves:
 - Compatibility 📱  
 - Download reliability 📥  
 
+---
+
+## ✈️ About
+
+Developed for TXR Reserved Jets
+A premium aviation charter experience platform.
+
+# 📜 License
+
+© 2026 TXR Reserved Jets. All rights reserved.
+
 TenX Reserved Jets is now more robust, secure, and optimized for real-world usage across all supported Android devices.
