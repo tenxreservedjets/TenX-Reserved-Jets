@@ -27,11 +27,11 @@ For flight operations or technical support, contact us at info@tenxreservedjets.
 
 
 
-Update May 2026 (`TenX-Reserved-Jets-v_1_1_0`);
+
 
 # TenX Reserved Jets App – Update Log
 
-## 🚀 Major Upgrades & Improvements
+## 🚀 Major Upgrades & Improvements (Update May 2026 `TenX-Reserved-Jets-v_1_1_0`);
 
 This release introduces significant improvements to stability, security, usability, and overall user experience of the TenX Reserved Jets Android application.
 
